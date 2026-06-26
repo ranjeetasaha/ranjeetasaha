@@ -20,7 +20,6 @@ I'm passionate about software development, cloud computing, and building real-wo
 
 ## 🌱 Current Focus
 - Building full-stack projects
-- Open Source
 - Cloud Engineering
 - Competitive Programming
 
