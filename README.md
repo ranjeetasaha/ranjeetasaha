@@ -1,6 +1,6 @@
 # Hi, I'm Ranjeeta Saha 👋
 
-💻 Computer Science Undergraduate
+💻 Final Year B.Tech. Computer Science Student
 
 I'm passionate about software development, cloud computing, and building real-world applications that solve problems.
 
